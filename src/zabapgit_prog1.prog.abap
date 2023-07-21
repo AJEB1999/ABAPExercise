@@ -7,3 +7,4 @@ REPORT ZABAPGIT_PROG1.
 
 WRITE: 'Hello Github!'.
 WRITE: 'TEST 12'.
+WRITE: 'TEST 2'.
